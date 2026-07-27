@@ -9,7 +9,7 @@
 ## Files
 | File | Deskripsi |
 |------|-----------|
-| task11_waktu_pengiriman.sql | Rata-rata waktu kirim — 5 tercepat dan 5 terlambat |
+| task11_waktu_pengiriman.sql | Rata-rata waktu kirim, 5 tercepat dan 5 terlambat |
 | task12_persentase_terlambat.sql | % keterlambatan per state dan per kategori |
 | task13_keterlambatan_vs_review.sql | Korelasi keterlambatan dengan review score |
 | task14_sla_compliance.sql | SLA compliance rate per bulan |
