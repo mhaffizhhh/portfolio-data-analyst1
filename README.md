@@ -22,4 +22,4 @@ pemodelan matematika.
 
 ## Contact
 - LinkedIn: linkedin.com/in/mohammadhafizhefridas
-- Email: mohammadhafizhefridas.xiia3@gmail.com
+- Email: hafizh.efridas01@gmail.com
