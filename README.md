@@ -3,7 +3,7 @@
 
 ## About Me
 Fresh graduate S1 Matematika Universitas Pendidikan Indonesia (UPI) 
-dengan GPA 3.87. Berpengalaman dalam analisis data, statistik, dan 
+dengan IPK 3.87. Berpengalaman dalam analisis data, statistika, dan 
 pemodelan matematika.
 
 ## Tech Stack
