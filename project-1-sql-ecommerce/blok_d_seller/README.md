@@ -2,7 +2,7 @@
 
 ## Business Questions
 1. Siapa top 10 seller berdasarkan revenue, variasi produk, dan review score?
-2. Seller mana yang bermasalah — review rendah tapi volume tinggi?
+2. Seller mana yang bermasalah, review rendah tapi volume tinggi?
 3. Seberapa terkonsentrasi revenue platform pada segelintir seller?
 
 ## Files
