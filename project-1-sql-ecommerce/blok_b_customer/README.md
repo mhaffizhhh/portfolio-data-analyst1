@@ -12,6 +12,6 @@
 |------|-----------|
 | task6_customer_baru.sql | Jumlah customer baru per bulan |
 | task7_repeat_customer.sql | % repeat customer dan rata-rata jarak antar order |
-| task8_cohort_retention.sql | Cohort retention — customer yang kembali bulan berikutnya |
+| task8_cohort_retention.sql | Cohort retention, customer yang kembali bulan berikutnya |
 | task9_clv.sql | CLV per customer dan distribusinya |
 | task10_churn.sql | % churned customer (tidak order > 6 bulan) |
