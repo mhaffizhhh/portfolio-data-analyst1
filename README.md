@@ -1,5 +1,4 @@
-# portfolio-data-analyst1
-# Portfolio Data Analyst — Mohammad Hafizh Efridas
+# Portfolio Data Analyst 1 — Mohammad Hafizh Efridas
 
 ## About Me
 Fresh graduate S1 Matematika Universitas Pendidikan Indonesia (UPI) 
