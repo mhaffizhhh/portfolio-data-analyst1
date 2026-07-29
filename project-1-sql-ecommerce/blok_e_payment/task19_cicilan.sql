@@ -20,7 +20,7 @@ from order_payments op
 inner join orders o
 on op.order_id = o.order_id
 where order_status = 'delivered' and payment_type = 'credit_card')
-select kelompok_cicilan, count(distinct order_id) as jumlah_order, 
+select kelompok_cicilan, count(distinct order_id) as jumlah_cicilan, 
 	round((sum(payment_value)/count(distinct order_id))::NUMERIC,2) as avg_nilai_order
 from cicilan
 group by 1
